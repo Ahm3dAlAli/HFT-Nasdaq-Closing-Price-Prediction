@@ -1,6 +1,6 @@
 # 📈 Optiver Trading at the Close: Time Series Forecasting for Financial Markets
 
-Welcome to the Optiver Trading at the Close project. This project focuses on forecasting the 60-second weighted average price (WAP) change against the 60-second synthetic stock index change, utilizing advanced machine learning and deep learning techniques.
+Welcome to the Optiver Trading at the Close. This project focuses on forecasting the 60-second weighted average price (WAP) change against the 60-second synthetic stock index change, utilizing advanced machine learning and deep learning techniques.
 
 ## 📋 Table of Contents
 
