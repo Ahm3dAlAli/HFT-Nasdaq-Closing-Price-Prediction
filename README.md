@@ -52,8 +52,7 @@ In-depth feature engineering was conducted to enhance the model's predictive pow
 <a name="evaluation"></a>
 ## 🎯 Model Evaluation
 
-- The XGBoost model showed significant performance, optimized through Bayesian Hyperparameter Tuning.
-- The CNN-BiLSTM-ATN model achieved a Mean Absolute Error (MAE) of 2.46999 on the test set and about 3.0 during training, indicating its effectiveness in time series forecasting.
+- The XGBoost model showed significant performance, optimized through Bayesian Hyperparameter Tuning, achieving a Mean Absolute Error (MAE) of 2.46999 on the test set and about 3.0 during training, indicating its effectiveness in time series forecasting.
 
 <a name="deep-learning-model"></a>
 ## 🧠 Deep Learning Model (CNN-BiLSTM-ATN)
