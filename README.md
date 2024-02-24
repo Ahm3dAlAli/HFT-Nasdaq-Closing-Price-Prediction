@@ -42,7 +42,7 @@ In-depth feature engineering was conducted to enhance the model's predictive pow
 - Bayesian Hyperparameter Tuning for enhanced performance.
 - Model Evaluation using Mean Absolute Error (MAE).
 
-### Deep Learning Model (CNN-BiLSTM-ATN)
+### Deep Learning Model (Conv-BiLSTM-ATN)
 - **Architecture**: Combines convolutional layers, bidirectional LSTM layers, and attention mechanisms.
 - **Training**: Utilizes Adam optimizer with a learning rate of 0.001 and TPU execution for efficiency.
 - **Layers**: Includes Conv1D, BatchNormalization, Dropout, Bidirectional LSTM, and Dense layers.
